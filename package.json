@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dervieni/DevOps-Woche4-NPMBuild.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dervieni/DevOps-Woche4-NPMBuild/issues"
+  },
+  "homepage": "https://github.com/dervieni/DevOps-Woche4-NPMBuild#readme",
+  "dependencies": {
+    "chart.js": "^2.9.3"
+  }
+}
